@@ -1,1 +1,1 @@
-print("Hello file Git Fork")
+print("Hello file Git Fork resolucion de conflictos")
